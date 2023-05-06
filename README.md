@@ -3,7 +3,7 @@
 ### This web app is to help people living in the same neighbourhood to connect and to be aware with what is happening in their ### surrounding.
 
 ## Known bugs
-## Not identified .
+* Not identified .
 
 ## Behaviour Driven Development
 * Register/Sign up -Fill in the required details	
